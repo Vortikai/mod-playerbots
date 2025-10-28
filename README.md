@@ -87,7 +87,7 @@ Use `docker compose up -d --build` to build and run the server. For more informa
 
 The [Playerbots Wiki](https://github.com/mod-playerbots/mod-playerbots/wiki) contains an extensive overview of add-ons, commands, raids with programmed bot strategies, and recommended performance configurations. Please note that documentation may be incomplete or out-of-date in some sections, and contributions are welcome.
 
-Bots are controlled via chat commands. For larger bot groups, this can be unwieldy. Because of this, community members have developed client add-ons to allow controlling bots through the in-game UI. We recommend you check out their projects listed in the [Add-Ons and Submodules](https://github.com/mod-playerbots/mod-playerbots/wiki/Playerbot-Addons-and-Sub%E2%80%90Modules) page.
+Bots are controlled via chat commands. For larger bot groups, this can be cumbersome. Because of this, community members have developed client add-ons to allow controlling bots through the in-game UI. We recommend you check out their projects listed in the [Add-Ons and Submodules](https://github.com/mod-playerbots/mod-playerbots/wiki/Playerbot-Addons-and-Sub%E2%80%90Modules) page.
 
 ## Contributing
 
