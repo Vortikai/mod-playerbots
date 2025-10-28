@@ -34,9 +34,9 @@ Supported platforms are Ubuntu, Windows, and macOS. Other Linux distributions ma
 
 **All `mod-playerbots` installations require a custom branch of AzerothCore: [mod-playerbots/azerothcore-wotlk/tree/Playerbot](https://github.com/mod-playerbots/azerothcore-wotlk/tree/Playerbot).** This branch allows the playerbots module to build and function. Updates from the upstream are implemneted regularly to this branch. Instructions for installing this required branch and this module are provided below.
 
-### Installation
+### Cloning the Repositories
 
-To install both the required branch and the `mod-playerbots` module from source, run the following:
+To install both the required branch of AzerothCore and the `mod-playerbots` module from source, run the following:
 
 ```bash
 git clone https://github.com/mod-playerbots/azerothcore-wotlk.git --branch=Playerbot
