@@ -2,6 +2,8 @@
     <a href="https://github.com/mod-playerbots/mod-playerbots/blob/master/README.md">English</a>
     |
     <a href="https://github.com/mod-playerbots/mod-playerbots/blob/master/README_CN.md">中文</a>
+    |
+    <a href="https://github.com/mod-playerbots/mod-playerbots/blob/master/README_ES.md">Español</a>
 </p>
 
 
@@ -65,7 +67,7 @@ services:
       - ./modules:/azerothcore/modules:ro
 ```
 
-itionally, this override file can be used to set custom configuration settings for `ac-worldserver` and any modules you install as environment variables:
+Additionally, this override file can be used to set custom configuration settings for `ac-worldserver` and any modules you install as environment variables:
 
 ```yml
 services:
